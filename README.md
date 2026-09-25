@@ -9,9 +9,13 @@ I’m an enthusiastic Full-Stack Software Developer and currently a student at u
 I’m passionate about technology and continuously learning new tools and programming languages to turn creative ideas into useful real-world applications.
 
 Programming Languages
+
 Language	Level
+
 Java	Learning
+
 Python	Learning
+
 
 Education
 
