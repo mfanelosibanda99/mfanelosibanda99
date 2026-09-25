@@ -13,20 +13,13 @@ Language	Level
 Java	Learning
 Python	Learning
 
-Projects
-
-Here are some of the projects I’m currently working on:
-
-IdleBid — An online auction marketplace connecting buyers with sellers of unused items.
-Student Score Tracker — A Python application for managing and analysing student scores.
-School Event Registration System — A system for students to register for school events.
-
 Education
 
 uncommon.org
 Student — Software Development
 
 🔗 Connect With Me
+
 https://www.linkedin.com/in/mfanelo-sibanda-ba4aaa24b/
 https://www.figma.com/design/Y464vsDRCdvIwnVx1AVbOZ/Untitled?node-id=0-1&t=SRop3Xiddha0ZrdA-1
 https://uncommon-assessments.vercel.app/student/dashboard
