@@ -1,4 +1,12 @@
-## Hi there 👋
+Hello & Welcome!
+
+Welcome to my GitHub profile! I’m glad you’re here. Explore my projects, follow my learning journey, and feel free to connect with me.
+
+About Me
+
+I’m an aspiring Full-Stack Software Developer and currently a student at uncommon.org, where I’m developing my skills in software development and problem-solving.
+
+I’m passionate about building practical, user-friendly digital solutions and continuously learning new technologies. My current programming languages include Java and Python, and I’m interested in using technology to turn ideas into useful real-world applications.
 
 <!--
 **mfanelosibanda99/mfanelosibanda99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
